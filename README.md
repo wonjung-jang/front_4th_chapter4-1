@@ -1,8 +1,6 @@
 # 프론트엔드 배포 파이프라인
 
-## 개요
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/6912169d-ce70-41bf-b624-946d4ee984eb/Untitled.png)
+![](https://velog.velcdn.com/images/jang_expedition/post/d5d9d16b-dff2-445f-b4bc-c548fd711d07/image.png)
 
 ## 주요 링크
 
